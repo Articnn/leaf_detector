@@ -1,1 +1,10 @@
-aun nada
+# Ignore virtual environment
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/*
+!data/.gitkeep
