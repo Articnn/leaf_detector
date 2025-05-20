@@ -1,4 +1,6 @@
-
-tensorflow>=2.11
-matplotlib
+streamlit
+tensorflow
 Pillow
+matplotlib
+numpy
+streamlit-lottie
