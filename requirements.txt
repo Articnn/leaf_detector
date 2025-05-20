@@ -4,3 +4,4 @@ Pillow
 matplotlib
 numpy
 streamlit-lottie
+python_version<="3.11"
